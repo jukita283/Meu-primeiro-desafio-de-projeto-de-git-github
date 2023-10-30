@@ -4,4 +4,11 @@ https://git-scm.com/
 aqui possui um manual para utilizar os comandos do git
 
 git clone (usado para clonar um repositório)
+git add . ou -A (adiciona todos os arquivos ou pasta novas criadas)
+git status (ver os status da pasta ou arquivos)
+git init (criar um reposiório)
+git commit (para comitar um arquivo)
+ctrl+l (limpar terminal)
+
+
 
