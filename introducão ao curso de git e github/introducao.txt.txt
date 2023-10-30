@@ -1,0 +1,7 @@
+#link de git
+
+https://git-scm.com/ 
+aqui possui um manual para utilizar os comandos do git
+
+git clone (usado para clonar um repositório)
+
